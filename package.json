@@ -1,0 +1,22 @@
+{
+  "name": "baby-shower-angel_mateo-2023",
+  "version": "1.0.0",
+  "description": "Landing page de babyshower de Angel Mateo Torres Cano",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseTorres022/mi-baby-shower-mateo2023.git"
+  },
+  "keywords": [
+    "BabyShower"
+  ],
+  "author": "José Torres & Gabriela Cano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseTorres022/mi-baby-shower-mateo2023/issues"
+  },
+  "homepage": "https://github.com/JoseTorres022/mi-baby-shower-mateo2023#readme"
+}
